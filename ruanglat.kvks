@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>ruanglat</kbdname>
+    <flags/>
+  </header>
+  <encoding name="unicode" fontname="Arial" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_Q">Ŋ</key>
+      <key vkey="K_X">Ə</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_C">˰</key>
+      <key vkey="K_F">ʦ</key>
+      <key vkey="K_J">̉</key>
+      <key vkey="K_Q">ŋ</key>
+      <key vkey="K_W">˙</key>
+      <key vkey="K_X">ǝ</key>
+      <key vkey="K_Y">ˉ</key>
+      <key vkey="K_V">˯</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
